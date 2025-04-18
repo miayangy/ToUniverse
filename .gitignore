@@ -25,3 +25,5 @@ dist-ssr
 
 # Export files
 *.zip
+
+.env
