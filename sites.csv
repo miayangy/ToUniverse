@@ -1,0 +1,55 @@
+分类,子分类,网站名称,网站链接,描述
+产品跟踪,产品榜,Y Combinator,https://www.ycombinator.com/companies,全球最著名的创业孵化器，可以追踪最新的AI创业公司动态和发展方向
+产品跟踪,产品榜,aicpb,https://aicpb.com,专业的AI产品排名网站，提供最新AI工具的使用数据和用户评价分析
+产品跟踪,产品榜,Toolify.ai,https://toolify.ai,全面的AI工具导航平台，提供详细的功能对比和最新AI工具评测
+产品跟踪,产品榜,Theresanaiforthat,https://theresanaiforthat.com,智能的AI工具搜索引擎，可以快速找到适合特定场景的AI解决方案
+产品跟踪,模型榜,ARENA,https://arena.lmsys.org,权威的大语言模型能力评测平台，提供实时的模型对话能力排名和详细评测数据
+主线关注,个人网站,Dario Amodei,https://www.anthropic.com/team,Anthropic联合创始人兼CEO，前OpenAI研究科学家，专注于AI安全研究
+主线关注,个人网站,Andrej Karpathy,https://twitter.com/karpathy,特斯拉前AI总监，OpenAI前研究科学家，深度学习领域的知名专家和教育者
+主线关注,个人网站,Lilian Weng,https://lilianweng.github.io,OpenAI研究总监，AI领域的技术博主，经常发布高质量的深度学习研究综述
+主线关注,个人网站,Jason Wei,https://twitter.com/_jasonwei,Anthropic资深研究员，专注于大语言模型和机器学习系统的研究
+主线关注,个人网站,Jim Fan,https://twitter.com/DrJimFan,知名AI研究员，经常分享前沿AI研究见解和技术分析
+主线关注,官方机构,Anthropic,https://www.anthropic.com,致力于开发安全可靠的AI系统的研究公司，Claude的开发团队
+主线关注,官方机构,Stanford,https://hai.stanford.edu,斯坦福人工智能研究院，开展前沿AI研究并探讨AI对社会的影响
+主线关注,官方机构,MIT,https://www.csail.mit.edu,麻省理工学院计算机科学与人工智能实验室，计算机领域的顶级研究机构
+主线关注,官方机构,CMU,https://www.cs.cmu.edu/research/artificial-intelligence,卡内基梅隆大学AI研究中心，在机器学习和人工智能领域处于世界领先地位
+商业,最新资讯,The Algorithm,https://www.thealgorithm.ai,专注于AI行业的深度科技媒体，提供独家新闻报道和分析
+商业,最新资讯,中金点睛,,中金公司旗下的AI产业研究公众号，提供专业的AI行业分析报告
+商业,最新资讯,高盛,https://www.goldmansachs.com/insights/artificial-intelligence,高盛投行的AI研究报告，分析AI技术对全球经济和行业的影响
+商业,最新资讯,麦肯锡,https://www.mckinsey.com/capabilities/quantumblack/our-insights,麦肯锡咨询公司的AI研究部门，发布AI技术应用和产业趋势分析
+商业,最新资讯,BCG,https://www.bcg.com/capabilities/artificial-intelligence,波士顿咨询集团的AI研究，探讨AI技术在商业领域的实际应用
+商业,深度研究,Stratechery,https://stratechery.com,Ben Thompson的科技分析博客，提供深入的AI产业战略分析
+商业,深度研究,A16z,https://a16z.com/ai,著名风投机构Andreessen Horowitz的AI研究，分享AI投资见解
+商业,深度研究,Sequoia,https://www.sequoiacap.com/article/tag/ai,红杉资本的AI研究报告，分析AI创业公司和投资机会
+商业,深度研究,Air Street Capital,https://www.stateof.ai,专注于AI领域的风投机构，发布年度AI技术发展状况报告
+商业,深度研究,海外独角兽,,专注报道海外AI独角兽公司的微信公众号，深度分析商业模式
+系统课程,入门,Elements of AI,https://www.elementsofai.com,赫尔辛基大学开发的AI基础课程，适合零基础学习者入门
+系统课程,入门,AI for Everyone,https://www.coursera.org/learn/ai-for-everyone,吴恩达设计的AI通识课程，帮助非技术人员理解AI
+系统课程,进阶,MIT OpenCourseWare,https://ocw.mit.edu/search/?q=artificial%20intelligence,麻省理工学院公开课平台，提供全面的AI课程资源
+系统课程,进阶,机器学习专项课程,https://www.coursera.org/specializations/machine-learning-introduction,吴恩达在Coursera上的机器学习系列课程，深入浅出
+系统课程,进阶,动手学深度学习,https://space.bilibili.com/1567748478,李沐老师的深度学习实战课程，结合理论和代码实践
+系统课程,进阶,Python机器学习应用,https://www.icourse163.org/course/BIT-1001872001,北京理工大学的Python机器学习课程，适合编程入门学习
+系统课程,实战,AI全栈成长计划,https://edu.huaweicloud.com/courses,华为云推出的AI开发者课程，涵盖从入门到进阶的全过程
+系统课程,实战,AI Studio,https://aistudio.baidu.com,百度飞桨深度学习平台，提供在线编程环境和实战项目
+系统课程,实战,天池AI学习平台,https://tianchi.aliyun.com,阿里云天池平台，提供AI竞赛和实战训练营
+系统课程,实战,AI for Trading,https://www.udacity.com/course/artificial-intelligence-for-trading--ud501,优达学城的AI量化交易课程，教授AI在金融领域的应用
+AI工具,通用模型,ChatGPT,https://chat.openai.com,OpenAI开发的对话模型，支持自然语言交互和多种创作任务
+AI工具,通用模型,Claude,https://claude.ai,Anthropic开发的AI助手，擅长分析和写作，注重安全性和准确性
+AI工具,通用模型,Gemini,https://gemini.google.com,Google最新的多模态AI模型，支持文本、图像、代码等多种输入
+AI工具,通用模型,Perplexity,https://www.perplexity.ai,基于AI的智能搜索引擎，提供实时信息和准确引用
+AI工具,通用模型,Learn About AI,https://learnabout.ai,Google开发的AI学习平台，提供互动式的AI知识学习体验
+AI工具,图片,Midjourney,https://www.midjourney.com,强大的AI图像生成工具，特别擅长艺术风格和概念图的创作
+AI工具,图片,DALL·E 3,https://labs.openai.com,OpenAI最新的图像生成模型，可以准确理解文本并创作高质量图像
+AI工具,图片,Stable Diffusion,https://stability.ai,开源的图像生成模型，支持本地部署和自定义训练
+AI工具,图片,Canva,https://www.canva.com/ai-image-generator,知名设计工具整合的AI图像生成功能，特别适合设计师使用
+AI工具,编程,GitHub Copilot,https://github.com/features/copilot,基于OpenAI技术的AI编程助手，提供实时代码建议
+AI工具,编程,Cursor,https://cursor.sh,专为开发者设计的AI驱动编辑器，支持代码解释和重构
+AI工具,编程,Bolt,https://bolt.new,StackBlitz开发的AI开发助手，帮助快速构建Web应用
+AI工具,音频,Whisper,https://openai.com/research/whisper,OpenAI的开源语音识别系统，支持多语言转录和翻译
+AI工具,音频,ElevenLabs,https://elevenlabs.io,领先的AI语音合成平台，支持自然的多语言声音克隆
+AI工具,音频,Murf,https://murf.ai,专业的AI配音工具，适合视频制作和内容创作
+AI工具,音频,Descript,https://www.descript.com,创新的AI音频编辑工具，支持文本编辑音频内容
+AI工具,视频,Runway,https://runwayml.com,专业的AI视频编辑工具，支持多种特效和视频生成
+AI工具,视频,Synthesia,https://www.synthesia.io,AI数字人视频生成平台，适合教育和营销内容制作
+AI工具,视频,Pika Labs,https://www.pika.art,新兴的AI视频创作工具，支持文本生成视频
+AI工具,视频,HeyGen,https://www.heygen.com,专业的AI数字人平台，可快速制作营销和培训视频
